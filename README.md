@@ -1,5 +1,7 @@
 # OpenReel
 
+![Logo](Logo.svg)
+
 An open audio cassette-like media for the hell of it
 
 ## About
