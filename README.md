@@ -22,8 +22,18 @@ OpenReel uses 1/4 inch tape because it is readily available and only a little bi
 
 ### Printing
 
-All printable files are located in "Printables". Currently only files for FDM printing are available.
-You should not need any additional supports and you should also not need to change the orientation of any of the files.
+All printable files are located in "Printables". Some objects are better printed using FDM, some using Resin:
+
+| Object | Preferred Method | Reasoning |
+| ------ | ------------------------- | --------- |
+| Base   | FDM | Large flat object; little detail |
+| Interface | FDM | Large flat object |
+| Plug   | Resin | Very small object; May have bad adhesion |
+| Roller | Resin | Surface should be smooth |
+| Spool  | Resin | Small, detailed object with need for supports (inbuilt in FDM-files) |
+
+Regardless of the printing method you should not need any additional supports.
+For FDM you should also not need to change the orientation of any of the files.
 
 All files need to be printed twice.
 
@@ -48,4 +58,4 @@ Build instructions will follow soon. It's not that hard to figure it out though 
 ## Contributing and messing around
 
 The project is available on Onshape. I chose Onshape because it is free, very usable and runs in a web browser making it compatible with linux.
-Here is the project link: https://cad.onshape.com/documents/349738425f2a45e8c18d34f4/
+Here is the project link: <https://cad.onshape.com/documents/349738425f2a45e8c18d34f4/>
