@@ -2,7 +2,6 @@
 
 ![Logo](Logo.svg)
 ![Exploded view](Explode.png)
-An open audio cassette-like media for the hell of it
 
 ## About
 
