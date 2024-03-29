@@ -6,7 +6,10 @@ An open audio cassette-like media for the hell of it
 
 OpenReel is a project that aims to produce audio cassettes that are compatible to standard cassette tape players. It aims to be as 3D-printable as possible by including support structures for FDM printers whenever they are absolutely required.
 
-Please not that OpenReel is currently in the dev-stage. It's not a working project but a fun project to work on, which is why I'm releasing it for you to tinker with.
+Please note that OpenReel is currently in the dev-stage. It's not a working project but a fun project to work on, which is why I'm releasing it for you to tinker with.
+
+If you want my measures of a cassette, here you go:
+![Base Drawing](Base.svg)
 
 ## Building an OpenReel cassette
 
